@@ -1,0 +1,20 @@
+{
+  "name": "smallborecoach_be",
+  "version": "1.0.0",
+  "description": "An app offering smallbore rifle coaching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michellebagot/SmallboreCoach_BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michellebagot/SmallboreCoach_BE/issues"
+  },
+  "homepage": "https://github.com/Michellebagot/SmallboreCoach_BE#readme"
+}
